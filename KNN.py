@@ -33,8 +33,8 @@ def knn(k_value,height, branch, tree, age):
     # plt.title('Body Scatter Plot')
 
 
-Ans = knn(10,5,7,10,100)
-print ("KNN = "+Ans)
+# Ans = knn(10,5,7,10,100)
+# print ("KNN = "+Ans)
 
 
 
